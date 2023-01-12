@@ -8,7 +8,3 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/Akari-my?logo=github&style=social)
 
-<section id='stats'>
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akari-my&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akari-my&layout=compact)
