@@ -4,6 +4,7 @@ Hey, I’m Akari — welcome!
 
 I’ve been programming for over 5 years. I started taking coding seriously in 2020, when I began developing PocketMine plugins, which led me to learn PHP.
 In 2022–2023, I moved on to creating Spigot plugins in Java, and over time I became comfortable with the language as well.
+
 I never really studied programming in a formal way — no books or courses — I just learned by watching YouTube tutorials and experimenting on my own. That’s how I fully learned PHP and most of Java.
 
 Right now, I don’t code as much as I used to — I spend most of my time on my hobbies:
